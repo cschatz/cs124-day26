@@ -9,7 +9,7 @@ public class Graph {
 		
 	}
 	
-	public void addEdge(String cityA, String cityB) {
+	public void addEdge(String cityA, String cityB, int distance) {
 		
 	}
 	
