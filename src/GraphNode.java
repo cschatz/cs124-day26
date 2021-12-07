@@ -8,6 +8,8 @@ public class GraphNode {
 	// private ArrayList<GraphNode> neighbors;
 	// private ArrayList<Integer> distances;
 	
-	
+	void addEdge(String otherCity, int distance) {
+		
+	}
 
 }
